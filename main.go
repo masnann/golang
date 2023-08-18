@@ -6,7 +6,9 @@ func main() {
 	fmt.Println("hello world")
 	fmt.Println("ini branch development")
 
-  //Manajement Konflik
+	//Manajement Konflik
 	fmt.Println("Manajemen Konflik")
-  //Manejemen Konflik
+	//Manejemen Konflik
 	fmt.Println("Manajemen konflik dari branch development")
+
+}
