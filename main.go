@@ -13,5 +13,7 @@ func main() {
 	// Nomor 3 Soal Eksplorasi
 	fmt.Println("Code Review")
 
+	fmt.Println("Code review baru")
+
 	
 }
